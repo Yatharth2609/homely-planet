@@ -1,6 +1,6 @@
 # Dynamic Form Application
 
-This application demonstrates a dynamic form that can handle both API data and manual user input with automatic calculations.
+The application demonstrates a dynamic form that can handle both API data and manual user input with automatic calculations.
 
 ## Features
 

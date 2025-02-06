@@ -4,7 +4,7 @@ import './App.css';
 import App from './App';
 
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://yourusername.pythonanywhere.com'
+  ? 'https://yatharth26.pythonanywhere.com/'
   : 'http://localhost:5000';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
